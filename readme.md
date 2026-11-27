@@ -1,1 +1,5 @@
-test
+- `config.ASM` - Sets the 8086 target, game constants, and drawing macros.
+- `runtime.ASM` - Starts DOS graphics, runs the main loop, and restores the system on exit.
+- `runtime_storage.ASM` - Reserves runtime variables, key buffers, and stack space.
+- `keyboard.ASM` - Handles keyboard interrupts and tracks held and newly pressed keys.
+- `palette.ASM` - Defines VGA colors for the game
