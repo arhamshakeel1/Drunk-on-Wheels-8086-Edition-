@@ -1,4 +1,4 @@
-; Bresenham segment. CX/DX scratch; endpoint in lineX2/lineY2.
+ ; Bresenham segment. CX/DX scratch; endpoint in lineX2/lineY2.
 line:
  push di
  push bp
