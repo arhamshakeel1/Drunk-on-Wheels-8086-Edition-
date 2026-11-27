@@ -1,4 +1,4 @@
-; Clipped filled rectangle AX/BX top-left, CX/DX size, SI palette entry.
+;  Clipped filled rectangle AX/BX top-left, CX/DX size, SI palette entry.
 rectangle:
  push di
  push bp
