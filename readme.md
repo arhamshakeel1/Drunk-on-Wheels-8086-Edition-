@@ -3,3 +3,5 @@
 - `runtime_storage.ASM` - Reserves runtime variables, key buffers, and stack space.
 -  `keyboard.ASM` - Handles keyboard interrupts and tracks held and newly pressed keys.
 - `palette.ASM` - Defines VGA colors for the game
+- `drawing.ASM` - Draws clipped rectangles, text, and decimal numbers.
+- `line_drawing.ASM` - Draws lines between screen coordinates
