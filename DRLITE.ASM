@@ -2,3 +2,8 @@
 %include "src/phase_1_screen_setup/runtime.ASM"
 %include "src/phase_1_screen_setup/keyboard.ASM"
 %include "src/phase_2_driving/driving.ASM"
+%include "src/phase_1_screen_setup/menu_input.ASM"
+%include "src/phase_1_screen_setup/menu_render.ASM"
+%include "src/phase_1_screen_setup/menu_data.ASM"
+%include "src/phase_2_driving/steering_art.ASM"
+%include "src/phase_1_screen_setup/runtime_storage.ASM"
