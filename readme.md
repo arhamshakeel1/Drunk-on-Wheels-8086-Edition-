@@ -3,5 +3,12 @@
 - `runtime_storage.ASM` - Reserves runtime variables, key buffers, and stack space.
 -  `keyboard.ASM` - Handles keyboard interrupts and tracks held and newly pressed keys.
 - `palette.ASM` - Defines VGA colors for the game
+- `menu_data.ASM` - Stores menu labels, help text, and menu state.
+- `menu_render.ASM` - Draws the title, garage, settings, pause, help, and result screens.
+- `menu_input.ASM` - Handles menu navigation and screen changes
 - `drawing.ASM` - Draws clipped rectangles, text, and decimal numbers.
 - `line_drawing.ASM` - Draws lines between screen coordinates
+- driving_state.ASM` - Stores shared driving variables such as speed and position.
+- `controls.ASM` - Handles mouse input, pedals, lights, indicators, and wipers.
+- `transmission.ASM` - Manages gear selection, shift ratios, and engine revs.
+- `driving.ASM` - Updates vehicle movement, highway impacts, and run outcomes.
