@@ -15,3 +15,4 @@
 - `projection.ASM` - Calculates perspective, road bends, and distance haze.
 - `road.ASM` - Draws the road surface, lane markings, and headlight beam.
 - `birds.ASM` - Draws the animated flock in the sky.
+- `scene.ASM` - Sets up the camera and draws the world scene.
