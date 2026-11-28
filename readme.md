@@ -13,3 +13,4 @@
 - `transmission.ASM` - Manages gear selection, shift ratios, and engine revs.
 - `driving.ASM` - Updates vehicle movement, highway impacts, and run outcomes.
 - `projection.ASM` - Calculates perspective, road bends, and distance haze.
+- `road.ASM` - Draws the road surface, lane markings, and headlight beam.
