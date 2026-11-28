@@ -12,3 +12,4 @@
 - `controls.ASM` - Handles mouse input, pedals, lights, indicators, and wipers.
 - `transmission.ASM` - Manages gear selection, shift ratios, and engine revs.
 - `driving.ASM` - Updates vehicle movement, highway impacts, and run outcomes.
+- `projection.ASM` - Calculates perspective, road bends, and distance haze.
